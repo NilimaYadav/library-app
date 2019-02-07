@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "library-app-3a425",
+    "staging": "library-app-3a425",
+    "live": "library-app-3a425"
+  }
+}
